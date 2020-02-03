@@ -18,3 +18,4 @@ How to install it:
 - Click on the following menu : File -> Examples – > GRBL (or what ever you renamed the folder to) -> ArduinoUno
 
 - Upload the sketch to your Arduino board.
+"# grbl_withChineseComment" 
